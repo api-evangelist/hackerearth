@@ -1,0 +1,32 @@
+aid: hackerearth
+name: Hackerearth
+description: "For compiling and running code in several languages"
+url: https://www.hackerearth.com/docs/wiki/developers/v4/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Programming"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Programming
+  - Public APIs
+apis:
+  - name: Hackerearth
+    description: "For compiling and running code in several languages"
+    humanURL: https://www.hackerearth.com/docs/wiki/developers/v4/
+    baseURL: https://www.hackerearth.com/docs/wiki/developers/v4/
+    tags:
+      - Programming
+    properties:
+      - type: Documentation
+        url: https://www.hackerearth.com/docs/wiki/developers/v4/
+common:
+  - type: Website
+    url: https://www.hackerearth.com/docs/wiki/developers/v4/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
