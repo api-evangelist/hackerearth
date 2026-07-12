@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.hackerearth.com/docs/wiki/developers/v4/
 common:
+  - type: DomainSecurity
+    url: security/hackerearth-domain-security.yml
   - type: Website
     url: https://www.hackerearth.com/docs/wiki/developers/v4/
   - type: PublicAPIsListing
