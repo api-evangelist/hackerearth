@@ -39,7 +39,6 @@ apis:
   - name: Hackerearth
     description: "For compiling and running code in several languages"
     humanURL: https://www.hackerearth.com/docs/wiki/developers/v4/
-    baseURL: https://www.hackerearth.com/docs/wiki/developers/v4/
     tags:
       - Programming
     properties:
